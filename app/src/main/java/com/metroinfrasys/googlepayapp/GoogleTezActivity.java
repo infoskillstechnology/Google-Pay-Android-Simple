@@ -33,7 +33,7 @@ public class GoogleTezActivity extends AppCompatActivity {
                                 .appendQueryParameter("mc", "1234")
                                 .appendQueryParameter("tr", "123456789")
                                 .appendQueryParameter("tn", "test transaction note")
-                                .appendQueryParameter("am", "10.01")
+                                .appendQueryParameter("am", "1.01")
                                 .appendQueryParameter("cu", "INR")
                                 .appendQueryParameter("url", "https://test.merchant.website")
                                 .build();
